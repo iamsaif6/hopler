@@ -1,4 +1,4 @@
-# Hopller Single-page Website
+# Hoppler Single-page Website
 
 <br>
 
